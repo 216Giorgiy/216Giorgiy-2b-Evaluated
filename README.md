@@ -1,10 +1,6 @@
 
-## [216Giorgiy-GitHub-Repos-2b-Evaluated](https://github.com/216Giorgiy/216Giorgiy-2b-Evaluated/216Giorgiy-GitHub.md)
----
+# [216Giorgiy-GitHub-Repos-2b-Evaluated](https://github.com/216Giorgiy/216Giorgiy-2b-Evaluated/216Giorgiy-GitHub.md)
 
-# https://github.com/216Giorgiy/216Giorgiy-2b-Evaluated.git
-
----
 
 
 ## …or create a new repository on the command line
@@ -26,3 +22,10 @@ git push -u origin master
 ## …or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS proje
+
+
+---
+
+### https://github.com/216Giorgiy/216Giorgiy-2b-Evaluated.git
+
+---
