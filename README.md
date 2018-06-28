@@ -1,5 +1,3 @@
-# 216Giorgiy-2b-Evaluated
-These forks (less anything Ionic) look the most interestin
 
 ## [216Giorgiy-GitHub-Repos-2b-Evaluated](https://github.com/216Giorgiy/216Giorgiy-2b-Evaluated/216Giorgiy-GitHub.md)
 ---
